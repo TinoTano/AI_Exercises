@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Cylinders.unity
+- path: Assets/AI Tanks/AI Framework.unity
   isLoaded: 1
   isActive: 1
